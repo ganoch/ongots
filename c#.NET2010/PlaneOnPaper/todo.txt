@@ -1,0 +1,10 @@
+﻿AI calculate possible positions, place random
+**  remove ghost by clicking
+1shot 3shot choice setting
+on place planes lock settings
+show settings on client 
+**	network game finished 
+**  validate finish game
+**	implement protocol
+**	implement game mechanics
+**	implement validation
